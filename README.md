@@ -1,4 +1,4 @@
-# Discord-Bot-in-python-June-2021-
+# Discord-Bot-in-python-June-2021
 
 June 2021 - https://replit.com/@MaheshKhatri/US-CDC-Health-Care-Workers-HCW-Covid-19-Exposure-Flowchart
 
